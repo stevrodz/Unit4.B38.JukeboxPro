@@ -1,0 +1,11 @@
+{
+  "name": "38-jukebox_pro",
+  "version": "1.0.0",
+  "description": "Introducing Jukebox Pro, the successor to Jukebox! Users will now need to make an account and log in before they are able to manage their playlists.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
